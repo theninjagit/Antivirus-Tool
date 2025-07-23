@@ -1,0 +1,8 @@
+2025-07-21 11:27:57 - Loaded 1 malware signatures
+2025-07-21 11:27:57 - Started real-time monitoring on: C:\Users\Dell/.local/bin, C:\Users\Dell/.config/autostart, /tmp
+2025-07-21 11:28:50 - Scanning directory: C:\Users\Dell/.local/bin
+2025-07-21 11:28:50 - Scanning directory: C:\Users\Dell/.config/autostart
+2025-07-21 11:28:50 - Scanning directory: /tmp
+2025-07-21 11:28:50 - Scan completed
+2025-07-21 11:29:21 - Scanning directory: /
+
